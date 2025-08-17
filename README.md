@@ -4,9 +4,11 @@ Bu dosyada bulunan C programlama dili kodları, Bursa Teknik Üniversitesi BLM-1
 # Konu İçeriği
 Algoritmalar ve Programlama dersinin vize sınavı için yaptığım çalışmalar pointer konusunu içermekte ve bu konuyu mükemmelleştirmeye odaklanmaktadır.
 
-# Kullanım Kılavuzu
-Kodları çalıştırmak ve test etmek için proje dosyası içerisinde bulunan main.c dosyasını indirim IDE uygulamanızda çalıştırabilirsiniz. 
+# Nasıl Çalıştırılır?
+1. İlgili main.c dosyasını indirin.
+2. Kullandığınız C IDE'sinde çalıştırmak için kod dosyasını seçin.
+3. Derleyiciyi çalıştırın.
 
-Dipnot:BLM-111-C-Programlama,  Avp-Vize,  Avp-Final repositoryleri birbirlerinin devamı niteliğindedir.
+Dipnot: BLM111-C-Programlama, Avp-Vize, Avp-Final repositoryleri birbirlerinin devamı niteliğindedir.
 
 
